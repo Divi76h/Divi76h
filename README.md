@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divi76h
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me divijkapoor015@gmail.com
 
